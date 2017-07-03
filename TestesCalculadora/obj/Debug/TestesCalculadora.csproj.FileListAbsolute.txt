@@ -1,0 +1,14 @@
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\TestesCalculadora.dll
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\TestesCalculadora.pdb
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\Calculadora.exe
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\Calculadora.pdb
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.dll
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\TestesCalculadora.dll
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\TestesCalculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\Calculadora.exe
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\bin\Debug\Calculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.csprojResolveAssemblyReference.cache
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.dll
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\TestesCalculadora\obj\Debug\TestesCalculadora.pdb

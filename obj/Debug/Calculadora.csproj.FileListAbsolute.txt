@@ -1,0 +1,14 @@
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.Principal.resources
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\132173\Desktop\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.Principal.resources
+D:\Guilherme\FACUL\4Sem\EDEA\09-05-14\ExCalculadora\ExCalculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
